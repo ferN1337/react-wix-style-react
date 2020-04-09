@@ -1,0 +1,21 @@
+{
+  "name": "srhmu",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.1",
+    "react-dom": "16.3.2",
+    "wix-style-react": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
